@@ -1,0 +1,15 @@
+body {
+    background-image: url(../ComputerInformationSystemBlog/Images/alexandre-debieve-FO7JIlwjOtU-unsplash.jpg);
+    background-size: cover;
+}
+
+html {
+    text-align: center;
+    color: rgb(245, 244, 244);
+}
+
+.flex-container-2 {
+    display: flex;
+    justify-content: space-evenly;
+  }
+
